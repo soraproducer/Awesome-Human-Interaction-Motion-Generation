@@ -72,8 +72,9 @@ By organizing the literature across human-human, human-object, and human-scene i
 
 ### Human-Object Interaction Motion Generation
 
-| Title | Venue | Year  | Code  | Project |
-| :---- | :---: | :---: | :---: | :-----: |
+| Title                                                                                                                                                            |  Venue            | Year |                              Code                              |                                                                                Project                                                                                |
+|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------|:-----------------:|:----:|:--------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|           <br>[**DiffH2O: Diffusion-Based Synthesis of Hand-Object Interactions from Textual Descriptions**](https://arxiv.org/pdf/2403.17827) <br>              |   SIGGRAPH Asia   | 2024 |                          Github                                |                                                            [Project](https://diffh2o.github.io/)                                                                      |
 
 [<u>🎯Back to Top</u>](#head-content)
 
