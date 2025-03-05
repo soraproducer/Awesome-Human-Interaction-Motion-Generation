@@ -177,15 +177,15 @@ By organizing the literature across human-human, human-object, and human-scene i
 | Dataset | Title | Venue | Year | Code | Project |
 |:--------|:------|:-----:|:----:|:----:|:-------:|
 | HIMO    | <br>[**HIMO: A New Benchmark for Full-Body Human Interacting with Multiple Objects**](https://arxiv.org/pdf/2407.12371) <br> |   ECCV            | 2024 | [Github](https://github.com/LvXinTao/HIMO_dataset) | [Project](https://lvxintao.github.io/himo/)  |
-| Semantic-HOI  | <br>[**XX**]() <br>| ECCV | 2024 | [Github]() | [Project]() |
-| IMHD2  | <br>[**XX**]() <br> | CVPR | 2024 | [Github]() | [Project]() |
+| Semantic-HOI  |<br>[**F-HOI: Toward Fine-grained Semantic-Aligned 3D Human-Object Interactions**](https://arxiv.org/pdf/2407.12435) <br> |   ECCV   | 2024 |      Github|[Project](https://f-hoi.github.io/) |
+| IMHD<sup>2</sup>  | <br>[**I'M HOI: Inertia-aware Monocular Capture of 3D Human-Object Interactions**](https://arxiv.org/pdf/2312.08869) <br> | CVPR | 2024 | [Github](https://github.com/AfterJourney00/IMHD-Dataset) | [Project](https://afterjourney00.github.io/IM-HOI.github.io/) |
 | OMOMO  |<br>[**Object Motion Guided Human Motion Synthesis**](https://arxiv.org/pdf/2309.16237) <br>   |   SIGGRAPH Asia    | 2023 | [Github](https://github.com/lijiaman/omomo_release)  |  [Project](https://lijiaman.github.io/projects/omomo/) |
-| CHAIRS | <br>[**XX**]() <br> | ICCV | 2023 | [Github]() | [Project]() |
-| ARCTIC | <br>[**XX**]() <br> | CVPR | 2023 | [Github]() | [Project]() |
-| HODome | <br>[**XX**]() <br> | CVPR | 2023 | [Github]() | [Project]() |
-| BEHAVE | <br>[**XX**]() <br> | CVPR | 2022 | [Github]() | [Project]() |
-| HOI4D | <br>[**XX**]() <br> | CVPR | 2022 | [Github]() | [Project]() |
-| H<sub>2<\sub>O-3D  | <br>[**Keypoint Transformer: Solving Joint Identification in Challenging Hands and Object Interactions for Accurate 3D Pose Estimation**](https://arxiv.org/pdf/2104.14639) <br>   |   CVPR    | 2022 | [Github](https://github.com/shreyashampali/kypt_transformer)  |  [Project](https://www.tugraz.at/index.php?id=57823) | 
+| CHAIRS | <br>[**Full-Body Articulated Human-Object Interaction**](https://arxiv.org/pdf/2212.10621) <br> | ICCV | 2023 | [Github](https://github.com/jnnan/chairs) | [Project](https://jnnan.github.io/chairs/) |
+| ARCTIC | <br>[**ARCTIC: A Dataset for Dexterous Bimanual Hand-Object Manipulation**](https://arxiv.org/pdf/2204.13662) <br> | CVPR | 2023 | [Github](https://github.com/zc-alexfan/arctic) | [Project](https://arctic.is.tue.mpg.de/) |
+| HODome | <br>[**NeuralDome: A Neural Modeling Pipeline on Multi-View Human-Object Interactions**](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_NeuralDome_A_Neural_Modeling_Pipeline_on_Multi-View_Human-Object_Interactions_CVPR_2023_paper.pdf) <br> | CVPR | 2023 | [Github](https://github.com/Juzezhang/NeuralDome_Toolbox) | [Project](https://juzezhang.github.io/NeuralDome/) |
+| BEHAVE | <br>[**BEHAVE: Dataset and Method for Tracking Human Object Interactions**](https://virtualhumans.mpi-inf.mpg.de/papers/bhatnagar22behave/behave.pdf) <br> | CVPR | 2022 | [Github](https://github.com/xiexh20/behave-dataset) | [Project](https://virtualhumans.mpi-inf.mpg.de/behave/) |
+| HOI4D | <br>[**HOI4D: A 4D Egocentric Dataset for Category-Level Human-Object Interaction**](https://hoi4d.github.io/HOI4D_cvpr2022.pdf) <br> | CVPR | 2022 | [Github](https://github.com/leolyliu/HOI4D-Instructions) | [Project](https://hoi4d.github.io/) |
+| H<sub>2</sub>O-3D  | <br>[**Keypoint Transformer: Solving Joint Identification in Challenging Hands and Object Interactions for Accurate 3D Pose Estimation**](https://arxiv.org/pdf/2104.14639) <br>   |   CVPR    | 2022 | [Github](https://github.com/shreyashampali/kypt_transformer)  |  [Project](https://www.tugraz.at/index.php?id=57823) | 
 | COUCH  | <br>[**COUCH: Towards Controllable Human-Chair Interactions**](https://virtualhumans.mpi-inf.mpg.de/couch/zhang2022couch.pdf) <br>   |   ECCV    | 2022 | [Github](https://github.com/xz6014/couch/)  |  [Project](https://virtualhumans.mpi-inf.mpg.de/couch/) |
 | InterCap | <br>[**InterCap: Joint Markerless 3D Tracking of Humans and Objects in Interaction**](https://intercap.is.tue.mpg.de/media/upload/main.pdf) <br> | GCPR | 2022 | [Github](https://github.com/YinghaoHuang91/InterCap/tree/master) | [Project](https://intercap.is.tue.mpg.de/) |
 | PROX-S | <br>[**Compositional Human-Scene Interaction Synthesis with Semantic Control**](https://arxiv.org/pdf/2207.12824) <br> | ECCV | 2022 | [Github](https://github.com/zkf1997/COINS) | [Project](https://zkf1997.github.io/COINS/index.html) |
