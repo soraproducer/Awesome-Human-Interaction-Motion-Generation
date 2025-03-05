@@ -176,6 +176,29 @@ By organizing the literature across human-human, human-object, and human-scene i
 
 | Dataset | Title | Venue | Year | Code | Project |
 |:--------|:------|:-----:|:----:|:----:|:-------:|
+| HIMO    | <br>[**HIMO: A New Benchmark for Full-Body Human Interacting with Multiple Objects**](https://arxiv.org/pdf/2407.12371) <br> |   ECCV            | 2024 | [Github](https://github.com/LvXinTao/HIMO_dataset) | [Project](https://lvxintao.github.io/himo/)  |
+| Semantic-HOI  | <br>[**XX**]() <br>| ECCV | 2024 | [Github]() | [Project]() |
+| IMHD2  | <br>[**XX**]() <br> | CVPR | 2024 | [Github]() | [Project]() |
+| OMOMO  |<br>[**Object Motion Guided Human Motion Synthesis**](https://arxiv.org/pdf/2309.16237) <br>   |   SIGGRAPH Asia    | 2023 | [Github](https://github.com/lijiaman/omomo_release)  |  [Project](https://lijiaman.github.io/projects/omomo/) |
+| CHAIRS | <br>[**XX**]() <br> | ICCV | 2023 | [Github]() | [Project]() |
+| ARCTIC | <br>[**XX**]() <br> | CVPR | 2023 | [Github]() | [Project]() |
+| HODome | <br>[**XX**]() <br> | CVPR | 2023 | [Github]() | [Project]() |
+| BEHAVE | <br>[**XX**]() <br> | CVPR | 2022 | [Github]() | [Project]() |
+| HOI4D | <br>[**XX**]() <br> | CVPR | 2022 | [Github]() | [Project]() |
+| H<sub>2<\sub>O-3D  | <br>[**Keypoint Transformer: Solving Joint Identification in Challenging Hands and Object Interactions for Accurate 3D Pose Estimation**](https://arxiv.org/pdf/2104.14639) <br>   |   CVPR    | 2022 | [Github](https://github.com/shreyashampali/kypt_transformer)  |  [Project](https://www.tugraz.at/index.php?id=57823) | 
+| COUCH  | <br>[**COUCH: Towards Controllable Human-Chair Interactions**](https://virtualhumans.mpi-inf.mpg.de/couch/zhang2022couch.pdf) <br>   |   ECCV    | 2022 | [Github](https://github.com/xz6014/couch/)  |  [Project](https://virtualhumans.mpi-inf.mpg.de/couch/) |
+| InterCap | <br>[**InterCap: Joint Markerless 3D Tracking of Humans and Objects in Interaction**](https://intercap.is.tue.mpg.de/media/upload/main.pdf) <br> | GCPR | 2022 | [Github](https://github.com/YinghaoHuang91/InterCap/tree/master) | [Project](https://intercap.is.tue.mpg.de/) |
+| PROX-S | <br>[**Compositional Human-Scene Interaction Synthesis with Semantic Control**](https://arxiv.org/pdf/2207.12824) <br> | ECCV | 2022 | [Github](https://github.com/zkf1997/COINS) | [Project](https://zkf1997.github.io/COINS/index.html) |
+| GRAVICAP | <br>[**Gravity-Aware Monocular 3D Human-Object Reconstruction**](https://arxiv.org/pdf/2108.08844) <br>   |   ICCV    | 2021 | [Github](https://github.com/rishabhdabral/gravicap)  |  [Project](https://4dqv.mpi-inf.mpg.de/GraviCap/) |
+| H2O | <br>[**H2O: Two Hands Manipulating Objects for First Person Interaction Recognition**](https://arxiv.org/pdf/2104.11181) <br> | ICCV | 2021 | [Github](https://github.com/taeinkwon/h2odataset) | [Project](https://taeinkwon.com/projects/h2o/) |
+| DexYCB | <br>[**DexYCB: A Benchmark for Capturing Hand Grasping of Objects**](https://arxiv.org/pdf/2104.04631) <br>   |   CVPR    | 2021 | [Github](https://github.com/NVlabs/dex-ycb-toolkit)  |  [Project](https://dex-ycb.github.io/) |
+| GRAB  | <br>[**GRAB: A Dataset of Whole-Body Human Grasping of Objects**](https://arxiv.org/pdf/2008.11200) <br>   |   ECCV    | 2020 | [Github](https://github.com/otaheri/GRAB)  |  [Project](https://grab.is.tue.mpg.de/) |
+| ContactPose | <br>[**ContactPose: A Dataset of Grasps with Object Contact and Hand Pose**](https://arxiv.org/pdf/2007.09545) <br>   |   ECCV    | 2020 | [Github](https://github.com/facebookresearch/ContactPose)  |  [Project](https://contactpose.cc.gatech.edu/) | 
+| HO-3D | <br>[**HOnnotate: A method for 3D Annotation of Hand and Object Poses**](https://arxiv.org/pdf/1907.01481) <br>   |   CVPR    | 2020 | [Github](https://github.com/shreyashampali/ho3d)  |  [Project](https://www.tugraz.at/institute/icg/research/team-lepetit/research-projects/hand-object-3d-pose-annotation/) | 
+| ObMan | <br>[**Learning joint reconstruction of hands and manipulated objects**](https://arxiv.org/pdf/1904.05767) <br>   |   CVPR    | 2019 | [Github](https://github.com/hassony2/obman)  |  [Project](https://hassony2.github.io/obman) |
+| ContactDB  | <br>[**ContactDB: Analyzing and Predicting Grasp Contact via Thermal Imaging**](https://arxiv.org/pdf/1904.06830) <br>   |   CVPR    | 2019 | [Github](https://github.com/samarth-robo/contactdb_prediction)  |  [Project](https://contactdb.cc.gatech.edu/) |
+| Dexter+Object | <br>[**Real-time Joint Tracking of a Hand Manipulating an Object from RGB-D Input**](https://handtracker.mpi-inf.mpg.de/projects/RealtimeHO/content/RealtimeHO_ECCV2016.pdf) <br>   |   ECCV    | 2016 | Github  |  [Project](https://handtracker.mpi-inf.mpg.de/projects/RealtimeHO/) |
+
 
 [<u>🎯Back to Top</u>](#head-content)
 
