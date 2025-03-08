@@ -123,6 +123,47 @@ By organizing the literature across human-human, human-object, and human-scene i
 
 | Title | Venue | Year  | Code  | Project |
 | :---- | :---: | :---: | :---: | :-----: |
+|<br>[**CLoSD: Closing the Loop between Simulation and Diffusion for multi-task character control**](https://arxiv.org/pdf/2410.03441) <br>   |   ICLR    | 2025 | [Github](https://github.com/GuyTevet/CLoSD)  |  [Project](https://guytevet.github.io/CLoSD-page/) |
+|<br>[**GHOST: Grounded Human Motion Generation with Open Vocabulary Scene-and-Text Contexts**](https://arxiv.org/pdf/2405.18438) <br>   |   WACV    | 2025 | Github  |  Project |
+|<br>[**LINGO: Autonomous Character-Scene Interaction Synthesis from Text Instruction**](https://arxiv.org/pdf/2410.03187) <br>   |   SIGGRAPH Asia     | 2024 | [Github](https://github.com/mileret/lingo-release)  |  [Project](https://lingomotions.com/) |
+|<br>[**UniHSI: Unified Human-Scene Interaction via Prompted Chain-of-Contacts**](https://arxiv.org/pdf/2309.07918) <br>   |   ICLR    | 2024 | [Github](https://github.com/OpenRobotLab/UniHSI)  |  [Project](https://xizaoqu.github.io/unihsi/) |
+|<br>[**TeSMo: Generating Human Interaction Motions in Scenes with Text Control**](https://arxiv.org/pdf/2404.10685) <br>   |   ECCV    | 2024 | [Github](https://github.com/nv-tlabs/tesmo)  |  [Project](https://research.nvidia.com/labs/toronto-ai/tesmo/) |
+|<br>[**MOB: Revisit Human-Scene Interaction via Space Occupancy**](https://arxiv.org/pdf/2312.02700) <br>   |   ECCV    | 2024 | [Github](https://github.com/HaowenHou/Motion-Occupancy-Base)  |  [Project](https://foruck.github.io/occu-page/) |
+|<br>[**MutualDistance: Scene-aware Human Motion Forecasting via Mutual Distance Prediction**](https://arxiv.org/pdf/2310.00615) <br>   |   ECCV    | 2024 | [Github](https://github.com/xccyue/MutualDistance)  |  Project |
+|<br>[**Move as You Say, Interact as You Can: Language-guided Human Motion Generation with Scene Affordance**](https://arxiv.org/pdf/2403.18036) <br>   |   CVPR    | 2024 | [Github](https://github.com/afford-motion/afford-motion)  |  [Project](https://afford-motion.github.io/) |
+|<br>[**Generating Human Motion in 3D Scenes from Text Descriptions**](https://arxiv.org/pdf/2405.07784) <br>   |   CVPR    | 2024 | [Github](https://github.com/zju3dv/text_scene_motion)  |  [Project](https://zju3dv.github.io/text_scene_motion/) |
+|<br>[**GenZI: Zero-Shot 3D Human-Scene Interaction Generation**](https://arxiv.org/pdf/2311.17737) <br>   |   CVPR    | 2024 | Github  |  [Project](https://craigleili.github.io/projects/genzi/) |
+|<br>[**SIF3D: Multimodal Sense-Informed Forecasting of 3D Human Motions**](https://arxiv.org/pdf/2405.02911v1) <br>   |   CVPR    | 2024 | [Github](https://github.com/kjle6/SIF3D-master)  |  [Project](https://sites.google.com/view/cvpr2024sif3d) |
+|<br>[**A Unified Diffusion Framework for Scene-aware Human Motion Estimation from Sparse Signals**](https://arxiv.org/pdf/2404.04890) <br>   |   CVPR    | 2024 | [Github](https://github.com/jn-tang/S2Fusion)  |  Project |
+|<br>[**TRUMANS: Scaling Up Dynamic Human-Scene Interaction Modeling**](https://arxiv.org/pdf/2403.08629) <br>   |   CVPR    | 2024 | [Github](https://github.com/jnnan/trumans_utils)  |  [Project](https://jnnan.github.io/trumans/) |
+|<br>[**InterScene: Synthesizing Physically Plausible Human Motions in 3D Scenes**](https://arxiv.org/pdf/2308.09036) <br>   |   3DV    | 2024 | [Github](https://github.com/liangpan99/InterScene)  |  [Project](https://liangpan99.github.io/InterScene/) |
+|<br>[**Purposer: Putting Human Motion Generation in Context**](https://arxiv.org/pdf/2404.12942) <br>   |   3DV    | 2024 | [Github](https://github.com/nicolasugrinovic/purposer)  |  [Project](https://www.iri.upc.edu/people/nugrinovic/purposer/) |
+|<br>[**Multi-Condition Latent Diffusion Network for Scene-Aware Neural Human Motion Prediction**](https://arxiv.org/pdf/2405.18700) <br>   |   IEEE TIP    | 2024 | Github  |  Project |
+|<br>[**SIMS: Simulating Human-Scene Interactions with Real World Script Planning**](https://arxiv.org/pdf/2411.19921) <br>   |   -    | 2024 | Github  |  Project |
+|<br>[**DIP: Diffusion Implicit Policy for Unpaired Scene-aware Motion Synthesis**](https://arxiv.org/abs/2410.03441) <br>   |   -    | 2024 | [Github](https://github.com/jingyugong/DiffusionImplicitPolicy)  |  [Project](https://jingyugong.github.io/DiffusionImplicitPolicy/) |
+|<br>[**GPT-Connect: Interaction between Text-Driven Human Motion Generator and 3D Scenes in a Training-free Manner**](https://arxiv.org/pdf/2403.14947) <br>   |   -    | 2024 | Github  |  Project |
+|<br>[**LaserHuman: Language-guided Scene-aware Human Motion Generation in Free Environment**](https://arxiv.org/pdf/2403.13307) <br>   |    -  | 2024 | [Github](https://github.com/4DVLab/LaserHuman)  |  Project |
+|<br>[**PAAK: Placing Human Animations into 3D Scenes by Learning Interaction- and Geometry-Driven Keyframes**](https://arxiv.org/pdf/2209.06314) <br>   |   WACV    | 2023 | Github   |  [Project](https://gamma.umd.edu/researchdirections/animation-placement/paak/) |
+|<br>[**DINOS: Synthesizing Diverse Human Motions in 3D Indoor Scenes**](https://arxiv.org/pdf/2305.12411) <br>   |   ICCV    | 2023 | [Github](https://github.com/zkf1997/DIMOS)  |  [Project](https://zkf1997.github.io/DIMOS/) |
+|<br>[**Locomotion-Action-Manipulation: Synthesizing Human-Scene Interactions in Complex 3D Environments**](https://arxiv.org/pdf/2301.02667) <br>   |   ICCV    | 2023 | [Github](https://github.com/jiyewise/LAMA/)  |  [Project](https://jiyewise.github.io/projects/LAMA/) |
+|<br>[**Narrator: Towards Natural Control of Human-Scene Interaction Generation via Relationship Reasoning**](https://arxiv.org/pdf/2303.09410) <br>   |   ICCV    | 2023 | [Github](https://github.com/HaibiaoXuan/Narrator)  |  [Project](https://haibiaoxuan.github.io/Narrator/) |
+|<br>[**MAMMOS: MApping Multiple human MOtion with Scene understanding and natural interactions**](https://openaccess.thecvf.com/content/ICCV2023W/CV4Metaverse/papers/Lim_MAMMOS_MApping_Multiple_Human_MOtion_with_Scene_Understanding_and_Natural_ICCVW_2023_paper.pdf) <br>   |   ICCVW    | 2023 | Github  |  Project |
+|<br>[**Synthesizing Physical Character-Scene Interactions**](https://arxiv.org/pdf/2302.00883) <br>   |   SIGGRAPH   | 2023| Github  |  Project |
+|<br>[**CIRCLE: Capture In Rich Contextual Environments**](https://arxiv.org/pdf/2303.17912) <br>   |   CVPR    | 2023 | [Github](https://github.com/Stanford-TML/circle_dataset)  |  [Project](https://stanford-tml.github.io/circle_dataset/) |
+|<br>[**SceneDiffuser: Diffusion-based Generation, Optimization, and Planning in 3D Scenes**](https://arxiv.org/abs/2410.03441) <br>   |   CVPR    | 2023 | [Github](https://github.com/scenediffuser/Scene-Diffuser)  |  [Project](https://scenediffuser.github.io/) |
+|<br>[**Generating Continual Human Motion in Diverse 3D Scenes**](https://arxiv.org/pdf/2304.02061) <br>   |   3DV    | 2023 | Github |  [Project](https://virtualhumans.mpi-inf.mpg.de/origin_2/) |
+|<br>[**HUMANISE: Language-conditioned Human Motion Generation in 3D Scenes**](https://arxiv.org/pdf/2210.09729) <br>   |  NeurIPS   | 2022 | [Github](https://github.com/Silverster98/HUMANISE)  |  [Project](https://silvester.wang/HUMANISE/) |
+|<br>[**COINS: Compositional Human-Scene Interaction Synthesis with Semantic Control**](https://arxiv.org/pdf/2207.12824) <br>   |   ECCV    | 2022 | [Github](https://github.com/zkf1997/COINS)  |  [Project](https://zkf1997.github.io/COINS/index.html) |
+|<br>[**GAMMA: The Wanderings of Odysseus in 3D Scenes**](https://arxiv.org/pdf/2112.09251) <br>   |  CVPR    | 2022 | [Github](https://github.com/yz-cnsdqz/GAMMA-release)  |  [Project](https://yz-cnsdqz.github.io/eigenmotion/GAMMA/) |
+|<br>[**Towards diverse and natural scene-aware 3d human motion synthesis**](https://arxiv.org/pdf/2205.13001) <br>   |   CVPR    | 2022  |  Github  |  Project |
+|<br>[**SAMP: Stochastic Scene-Aware Motion Prediction**](https://arxiv.org/abs/2410.03441) <br>   |   ICCV    | 2021 | [Github](https://github.com/mohamedhassanmus/SAMP)  |  [Project](https://samp.is.tue.mpg.de/) |
+|<br>[**Synthesizing Long-Term 3D Human Motion and Interaction in 3D Scenes**](https://arxiv.org/pdf/2012.05522) <br>   |   CVPR    | 2021| [Github](https://github.com/jiashunwang/Long-term-Motion-in-3D-Scenes)  |  [Project](https://jiashunwang.github.io/Long-term-Motion-in-3D-Scenes/) |
+|<br>[**Long-term Human Motion Prediction with Scene Context**](https://arxiv.org/pdf/2007.03672) <br>   |   ECCV   | 2020 | [Github](https://github.com/wei-mao-2019/ContAwareMotionPred)  |  [Project](https://zhec.github.io/hmp/) |
+|<br>[**Generating 3D People in Scenes without People**](https://arxiv.org/pdf/1912.02923) <br>   |   CVPR    | 2020 | [Github](https://github.com/yz-cnsdqz/PSI-release)  |  Project |
+|<br>[**PLACE: Proximity Learning of Articulation and Contact in 3D Environments**](https://arxiv.org/pdf/2008.05570) <br>   |   3DV    | 2020 | [Github](https://github.com/sanweiliti/PLACE)  |  [Project](https://sanweiliti.github.io/PLACE/PLACE.html) |
+|<br>[**Neural state machine for character-scene interactions**](https://dl.acm.org/doi/pdf/10.1145/3355089.3356505) <br>   |   SIGGRAPH Asia    | 2019 | Github  |  Project |
+|<br>[**Putting Humans in a Scene: Learning Affordance in 3D Indoor Environments**](https://arxiv.org/pdf/1903.05690) <br>   |   CVPR    | 2019 | Github   |  [Project](https://sites.google.com/view/3d-affordance-cvpr19) |
+|<br>[**PiGraphs: Learning Interaction Snapshots from Observations**](https://dl.acm.org/doi/pdf/10.1145/2897824.2925867) <br>   |   SIGGRAPH    | 2016 | [Github](https://github.com/msavva/pigraphs)   |  [Project](https://graphics.stanford.edu/projects/pigraphs/) |
 
 [<u>🎯Back to Top</u>](#head-content)
 
@@ -207,6 +248,22 @@ By organizing the literature across human-human, human-object, and human-scene i
 
 | Dataset | Title | Venue | Year | Code | Project |
 |:--------|:------|:-----:|:----:|:----:|:-------:|
+|<br>[**LINGO: Autonomous Character-Scene Interaction Synthesis from Text Instruction**](https://arxiv.org/pdf/2410.03187) <br>   |   SIGGRAPH Asia     | 2024 | [Github](https://github.com/mileret/lingo-release)  |  [Project](https://lingomotions.com/) |
+|<br>[**TRUMANS: Scaling Up Dynamic Human-Scene Interaction Modeling**](https://arxiv.org/pdf/2403.08629) <br>   |   CVPR    | 2024 | [Github](https://github.com/jnnan/trumans_utils)  |  [Project](https://jnnan.github.io/trumans/) |
+|<br>[**LaserHuman: Language-guided Scene-aware Human Motion Generation in Free Environment**](https://arxiv.org/pdf/2403.13307) <br>   |    -  | 2024 | [Github](https://github.com/4DVLab/LaserHuman)  |  Project |
+|<br>[**Interaction Replica: Tracking Human-Object Interaction and Scene Changes From Human Motion**](https://arxiv.org/pdf/2205.02830) <br>   |    3DV  | 2024 | [Github](https://github.com/vguzov/ireplica)  |  [Project](https://virtualhumans.mpi-inf.mpg.de/ireplica/) |
+|<br>[**ParaHome: Parameterizing Everyday Home Activities Towards 3D Generative Modeling of Human-Object Interactions**](https://arxiv.org/pdf/2401.10232) <br>   |   CVPR    | 2025 | [Github](https://github.com/snuvclab/ParaHome)  |  [Project](https://jlogkim.github.io/parahome/) |
+|<br>[**CIRCLE: Capture In Rich Contextual Environments**](https://arxiv.org/pdf/2303.17912) <br>   |   CVPR    | 2023 | [Github](https://github.com/Stanford-TML/circle_dataset)  |  [Project](https://stanford-tml.github.io/circle_dataset/) |
+|<br>[**HUMANISE: Language-conditioned Human Motion Generation in 3D Scenes**](https://arxiv.org/pdf/2210.09729) <br>   |  NeurIPS   | 2022 | [Github](https://github.com/Silverster98/HUMANISE)  |  [Project](https://silvester.wang/HUMANISE/) |
+|<br>[**GIMO: Gaze-Informed Human Motion Prediction in Context**](https://arxiv.org/pdf/2204.09443) <br>   |  ECCV   | 2022 | [Github](https://github.com/y-zheng18/GIMO)  |  [Project](https://geometry.stanford.edu/projects/gimo/) |
+|<br>[**EgoBody: Human Body Shape and Motion of Interacting People from Head-Mounted Devices**](https://arxiv.org/pdf/2112.07642) <br>   |   ECCV   | 2022 | [Github](https://github.com/sanweiliti/EgoBody)  |  [Project](https://sanweiliti.github.io/egobody/egobody.html) |
+|<br>[**Capturing and Inferring Dense Full-Body Human-Scene Contact**](https://arxiv.org/pdf/2206.09553) <br>   |   CVPR   | 2022 | [Github](https://github.com/paulchhuang/rich_toolkit)  |  [Project](https://rich.is.tue.mpg.de/) |
+|<br>[**SAMP: Stochastic Scene-Aware Motion Prediction**](https://arxiv.org/abs/2410.03441) <br>   |   ICCV    | 2021 | [Github](https://github.com/mohamedhassanmus/SAMP)  |  [Project](https://samp.is.tue.mpg.de/) |
+|<br>[**HPS: 3D Human Pose Estimation and Self-localization in Large Scenes from Body-Mounted Sensors**](https://arxiv.org/pdf/2103.17265) <br>   |   CVPR   | 2021 | [Github](https://github.com/miraymen/hps)  |  [Project](https://virtualhumans.mpi-inf.mpg.de/hps/) |
+|<br>[**GTA-IM: Long-term Human Motion Prediction with Scene Context**](https://arxiv.org/pdf/2007.03672) <br>   |   ECCV    | 2020 | [Github](https://github.com/ZheC/GTA-IM-Dataset)  |  [Project](https://zhec.github.io/hmp/index.html) |
+|<br>[**PROX: Resolving 3D Human Pose Ambiguities with 3D Scene Constraints**](https://arxiv.org/pdf/1908.06963) <br>   |   ICCV    | 2019 | [Github](https://github.com/mohamedhassanmus/prox)  |  [Project](https://prox.is.tue.mpg.de/) |
+|<br>[**i3DB: Interaction-guided Joint Scene and Human Motion Mapping from Monocular Videos**](https://arxiv.org/pdf/1806.07889) <br>   |   SIGGRAPH   | 2019 | [Github](https://github.com/amonszpart/iMapper)  |  [Project](https://geometry.cs.ucl.ac.uk/projects/2019/imapper/) |
+|<br>[**PiGraphs: Learning Interaction Snapshots from Observations**](https://dl.acm.org/doi/pdf/10.1145/2897824.2925867) <br>   |   SIGGRAPH    | 2016 | [Github](https://github.com/msavva/pigraphs)   |  [Project](https://graphics.stanford.edu/projects/pigraphs/) |
 
 [<u>🎯Back to Top</u>](#head-content)
 
