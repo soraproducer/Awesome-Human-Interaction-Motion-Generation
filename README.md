@@ -3,21 +3,42 @@
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
-## 🔥🔥🔥 [A Survey on Human Interaction Motion Generation (Upcoming Release)](https://arxiv.org/pdf/?)
+## 🔥🔥🔥 [A Survey on Human Interaction Motion Generation](https://arxiv.org/abs/2503.12763)
 
 **Human Interaction Motion Generation** is a rapidly growing field that aims to model how humans interact with others, objects, and their surroundings.
 These interactions are crucial for applications in robotics, virtual reality, and animation.
 While deep generative models and new datasets have propelled advancements, challenges remain in capturing the complexity of human dynamics in interactive settings.
 
+![Timeline Fig](figs/timeline.png)
+
 This repository provides a structured collection of research papers and datasets related to human interaction motion generation.
 By organizing the literature across human-human, human-object, and human-scene interactions, we hope to offer a valuable reference for researchers and practitioners in this field.
+
+![Interaction Types Fig](figs/interaction_types.png)
 
 **If you are interested in this project, you can contribute to this repo by pulling requests 😊😊😊**
 
 ## 📢 News
 
 🚀 **What's New in This Update**:
+- [2025.03.17]: 🎉 Our Arxiv Pre-print is now available at https://arxiv.org/abs/2503.12763
 - [2025.03.16]: 🔥 We release our Human Interaction Motion Generation paper list repo!
+
+## 📜 Citation
+
+If you find our survey useful, please consider citing:
+
+```
+@misc{sui2025surveyhumaninteractionmotion,
+      title={A Survey on Human Interaction Motion Generation}, 
+      author={Kewei Sui and Anindita Ghosh and Inwoo Hwang and Jian Wang and Chuan Guo},
+      year={2025},
+      eprint={2503.12763},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2503.12763}, 
+}
+```
 
 ## :rainbow: <span id="head-content"> Table of Contents
 - [Awesome-Human-Interaction-Motion-Generation](#awesome-human-interaction-motion-generation)
@@ -258,11 +279,11 @@ By organizing the literature across human-human, human-object, and human-scene i
 | EgoBody    | ![Star](https://img.shields.io/github/stars/sanweiliti/EgoBody.svg?style=social&label=Star) <br>[**EgoBody: Human Body Shape and Motion of Interacting People from Head-Mounted Devices**](https://arxiv.org/pdf/2112.07642) <br>                                |     ECCV      | 2022 |     [Github](https://github.com/sanweiliti/EgoBody)      |  [Project](https://sanweiliti.github.io/egobody/egobody.html)   |
 | HUMANISE   | ![Star](https://img.shields.io/github/stars/Silverster98/HUMANISE.svg?style=social&label=Star) <br>[**HUMANISE: Language-conditioned Human Motion Generation in 3D Scenes**](https://arxiv.org/pdf/2210.09729) <br>                                              |    NeurIPS    | 2022 |    [Github](https://github.com/Silverster98/HUMANISE)    |           [Project](https://silvester.wang/HUMANISE/)           |
 | HPS        | ![Star](https://img.shields.io/github/stars/miraymen/hps.svg?style=social&label=Star) <br>[**Human POSEitioning System (HPS): 3D Human Pose Estimation and Self-localization in Large Scenes from Body-Mounted Sensors**](https://arxiv.org/pdf/2103.17265) <br> |     CVPR      | 2021 |        [Github](https://github.com/miraymen/hps)         |      [Project](https://virtualhumans.mpi-inf.mpg.de/hps/)       |
-| SAMP       | ![Star](https://img.shields.io/github/stars/mohamedhassanmus/SAMP.svg?style=social&label=Star) <br>[**SAMP: Stochastic Scene-Aware Motion Prediction**](https://arxiv.org/abs/2410.03441) <br> | ICCV | 2021 | [Github](https://github.com/mohamedhassanmus/SAMP) | [Project](https://samp.is.tue.mpg.de/) |
-| GTA-IM     | ![Star](https://img.shields.io/github/stars/ZheC/GTA-IM-Dataset.svg?style=social&label=Star) <br>[**GTA-IM: Long-term Human Motion Prediction with Scene Context**](https://arxiv.org/pdf/2007.03672) <br> | ECCV | 2020 | [Github](https://github.com/ZheC/GTA-IM-Dataset) | [Project](https://zhec.github.io/hmp/index.html) |
-| PROX       | ![Star](https://img.shields.io/github/stars/mohamedhassanmus/prox.svg?style=social&label=Star) <br>[**PROX: Resolving 3D Human Pose Ambiguities with 3D Scene Constraints**](https://arxiv.org/pdf/1908.06963) <br> | ICCV | 2019 | [Github](https://github.com/mohamedhassanmus/prox) | [Project](https://prox.is.tue.mpg.de/) |
-| i3DB       | ![Star](https://img.shields.io/github/stars/amonszpart/iMapper.svg?style=social&label=Star) <br>[**iMapper: Interaction-guided Joint Scene and Human Motion Mapping from Monocular Videos**](https://arxiv.org/pdf/1806.07889) <br> | SIGGRAPH | 2019 | [Github](https://github.com/amonszpart/iMapper) | [Project](https://geometry.cs.ucl.ac.uk/projects/2019/imapper/) |
-| PiGraphs   | ![Star](https://img.shields.io/github/stars/msavva/pigraphs.svg?style=social&label=Star) <br>[**PiGraphs: Learning Interaction Snapshots from Observations**](https://dl.acm.org/doi/pdf/10.1145/2897824.2925867) <br> | SIGGRAPH | 2016 | [Github](https://github.com/msavva/pigraphs) | [Project](https://graphics.stanford.edu/projects/pigraphs/) |
+| SAMP       | ![Star](https://img.shields.io/github/stars/mohamedhassanmus/SAMP.svg?style=social&label=Star) <br>[**SAMP: Stochastic Scene-Aware Motion Prediction**](https://arxiv.org/abs/2410.03441) <br>                                                                   |     ICCV      | 2021 |    [Github](https://github.com/mohamedhassanmus/SAMP)    |             [Project](https://samp.is.tue.mpg.de/)              |
+| GTA-IM     | ![Star](https://img.shields.io/github/stars/ZheC/GTA-IM-Dataset.svg?style=social&label=Star) <br>[**GTA-IM: Long-term Human Motion Prediction with Scene Context**](https://arxiv.org/pdf/2007.03672) <br>                                                       |     ECCV      | 2020 |     [Github](https://github.com/ZheC/GTA-IM-Dataset)     |        [Project](https://zhec.github.io/hmp/index.html)         |
+| PROX       | ![Star](https://img.shields.io/github/stars/mohamedhassanmus/prox.svg?style=social&label=Star) <br>[**PROX: Resolving 3D Human Pose Ambiguities with 3D Scene Constraints**](https://arxiv.org/pdf/1908.06963) <br>                                              |     ICCV      | 2019 |    [Github](https://github.com/mohamedhassanmus/prox)    |             [Project](https://prox.is.tue.mpg.de/)              |
+| i3DB       | ![Star](https://img.shields.io/github/stars/amonszpart/iMapper.svg?style=social&label=Star) <br>[**iMapper: Interaction-guided Joint Scene and Human Motion Mapping from Monocular Videos**](https://arxiv.org/pdf/1806.07889) <br>                              |   SIGGRAPH    | 2019 |     [Github](https://github.com/amonszpart/iMapper)      | [Project](https://geometry.cs.ucl.ac.uk/projects/2019/imapper/) |
+| PiGraphs   | ![Star](https://img.shields.io/github/stars/msavva/pigraphs.svg?style=social&label=Star) <br>[**PiGraphs: Learning Interaction Snapshots from Observations**](https://dl.acm.org/doi/pdf/10.1145/2897824.2925867) <br>                                           |   SIGGRAPH    | 2016 |       [Github](https://github.com/msavva/pigraphs)       |   [Project](https://graphics.stanford.edu/projects/pigraphs/)   |
 
 [<u>🎯Back to Top</u>](#head-content)
 
