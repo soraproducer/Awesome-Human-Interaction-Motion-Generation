@@ -21,6 +21,7 @@ By organizing the literature across human-human, human-object, and human-scene i
 ## 📢 News
 
 🚀 **What's New in This Update**:
+- [2025.09.08]: 🔄 Update 6 different HIMG works during 2024-2025, including: DuetGen, SceneMI, CooHOI, HOT3D, HUMOTO, CORE4D
 - [2025.03.17]: 🎉 Our Arxiv Pre-print is now available at https://arxiv.org/abs/2503.12763
 - [2025.03.16]: 🔥 We release our Human Interaction Motion Generation paper list repo!
 
@@ -297,7 +298,7 @@ If you find our survey useful, please consider citing:
 
 | Dataset           | Title                                                                                                                                                                                                                                       | Venue | Year |                           Code                            |                          Project                          |
 |:------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-----:|:----:|:---------------------------------------------------------:|:---------------------------------------------------------:|
-| CORE4D | ![Star](https://img.shields.io/github/stars/leolyliu/CORE4D-Instructions.svg?style=social&label=Star) <br>[**HOI-M3:Capture Multiple Humans and Objects Interaction within Contextual Environment**](https://arxiv.org/pdf/2406.19353) <br> | CVPR  | 2025 | [Github](https://github.com/leolyliu/CORE4D-Instructions) | [Project](https://core4d.github.io/) |
+| CORE4D | ![Star](https://img.shields.io/github/stars/leolyliu/CORE4D-Instructions.svg?style=social&label=Star) <br>[**CORE4D: A 4D Human-Object-Human Interaction Dataset for Collaborative Object REarrangement**](https://arxiv.org/pdf/2406.19353) <br> | CVPR  | 2025 | [Github](https://github.com/leolyliu/CORE4D-Instructions) | [Project](https://core4d.github.io/) |
 | HOI-M<sup>3</sup> | ![Star](https://img.shields.io/github/stars/Juzezhang/NeuralDome_Toolbox.svg?style=social&label=Star) <br>[**HOI-M3:Capture Multiple Humans and Objects Interaction within Contextual Environment**](https://arxiv.org/pdf/2404.00299) <br> | CVPR  | 2024 | [Github](https://github.com/Juzezhang/NeuralDome_Toolbox) | [Project](https://juzezhang.github.io/HOIM3_ProjectPage/) |
 | HHOI              | <br>[**Learning Social Affordance for Human-Robot Interaction**](https://arxiv.org/pdf/1604.03692) <br>                                                                                                                                     | IJCAI | 2016 |                          Github                           |     [Project](https://www.tshu.io/SocialAffordance/)      |
 
