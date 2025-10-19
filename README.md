@@ -308,3 +308,6 @@ If you find our survey useful, please consider citing:
 Thanks to all the contributors!
 
 Special thank to [JackFYL](https://github.com/JackYFL) for providing the repo template.
+
+## <span id="head8"> Star History </span>
+[![Star History Chart](https://api.star-history.com/svg?repos=soraproducer/Awesome-Human-Interaction-Motion-Generation&type=date&legend=top-left)](https://www.star-history.com/#soraproducer/Awesome-Human-Interaction-Motion-Generation&type=date&legend=top-left)
